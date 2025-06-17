@@ -58,7 +58,7 @@ npm run serve
 
 ## 🖼️ Preview
 
-![Projeto TODO](./assets/img.png)
+![Projeto TODO](src/assets/img.png)
 
 ---
 
