@@ -38,7 +38,7 @@ cd nome-do-repo
 npm install
 
 # Inicie o JSON Server (API fake)
-npx json-server --watch db.json
+npx json-server --watch api/database.json
 
 # Em outro terminal, execute o projeto Vue
 npm run serve
